@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-ts-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikhailsidorov/nodejs-ts-demo.git"
+  },
+  "author": "Mikhail Sidorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikhailsidorov/nodejs-ts-demo/issues"
+  },
+  "homepage": "https://github.com/mikhailsidorov/nodejs-ts-demo#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
